@@ -1,12 +1,9 @@
 # Hey! 👋 I'm Fajar Rizki Aprilian
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=fzapr.fzapr)
-
 Saya adalah seorang mahasiswa yang antusias dalam *Web Development*, khususnya menggunakan *framework* Laravel, serta memiliki ketertarikan pada riset akademik. 
 
 - 📍 **Lokasi:** Batam, Kepulauan Riau, Indonesia
 - 📧 **Email:** fajar.rizkiapr@gmail.com
-- 🐙 **GitHub:** 
 
 ---
 
@@ -21,12 +18,8 @@ Saya adalah seorang mahasiswa yang antusias dalam *Web Development*, khususnya m
 
 ## 💻 My Projects Work History
 
-* **PBL Semester 1: Sistem Manajemen Data Calon Mahasiswa & Dosen**
-    Membangun antarmuka untuk calon mahasiswa baru dan mengembangkan sistem manajemen *database* untuk data dosen.
-* **[Nama Proyek Lain Saat SMA/Kuliah]**
-    Deskripsi singkat proyek tersebut. (Misalnya: Proyek riset SINTA, atau sistem lainnya).
-* **Gaming Service Order Management**
-    Mengelola pencatatan *database* dan transaksi *level-boosting* game secara terstruktur.
+* **PBL Semester 1: Aplikasi Siskamling Berbasis Website**
+    Merancang dan membangun sistem informasi berbasis web untuk mengelola, menyusun, dan memonitoring jadwal ronda keamanan lingkungan warga secara terstruktur.
 
 ---
 
